@@ -1,7 +1,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
-  background-color: #F7F7F7;
-  color: #333;
+  background-color: #DDD0C8;
+  color: #323232;
   margin: 0;
   padding: 0;
 }
@@ -16,10 +16,19 @@ body {
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 4rem;
   font-weight: bold;
   text-align: center;
   margin: 20px 0;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
+
+#span-fetch {
+  color: #26962a;
+}
+
+#span-finder {
+    color: #323232;
 }
 
 form {
